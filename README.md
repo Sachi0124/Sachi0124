@@ -1,79 +1,156 @@
-# Sachith C.
+<!-- ═══════════════════════════════════════════════ -->
+<!--                  HEADER                       -->
+<!-- ═══════════════════════════════════════════════ -->
 
-**&#x20;Data Science | Artificial Intelligence | Machine Learning | Deep Learning | NLP | Generative AI**
+<div align="center">
 
-Information Science graduate with a Bachelor's degree in Information Science & Engineering, currently pursuing an M.Tech in Artificial Intelligence and Data Science. Technical background spanning machine learning, deep learning, natural language processing, generative AI, and data-driven application development.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sachith%20C.&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descSize=16&descAlignY=60" width="100%"/>
 
-## Academic Background
+### 🎓 BE in Information Science & Engineering | M.Tech in AI & Data Science
 
-- **M.Tech:** Artificial Intelligence & Data Science — Pursuing
-- **B.E.:** Information Science & Engineering
+**Artificial Intelligence • Machine Learning • Deep Learning • NLP • Generative AI**
 
-## Research Experience
+📍 Bengaluru, India
 
-**Samsung PRISM Research Program**
+[![GitHub](https://img.shields.io/badge/GitHub-Sachi0124-181717?style=for-the-badge&logo=github)](https://github.com/Sachi0124)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachith%20C-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachith-c-b75b08293/)
 
-*Research Intern | Generative AI – Self-Speculative Decoding*
+</div>
 
-*November 2024 – July 2025*
+---
+
+## 👨‍🎓 Academic Background
+
+| Degree | Specialization | Status |
+|:---|:---|:---|
+| **M.Tech** | Artificial Intelligence & Data Science | Pursuing |
+| **B.E.** | Information Science & Engineering | Completed |
+
+---
+
+## 🔬 Research Experience
+
+### Samsung PRISM Research Program
+**Research Intern | Generative AI – Self-Speculative Decoding**
+
+📅 November 2024 – July 2025
 
 - Development and benchmarking of Generative AI inference pipelines using Self-Speculative Decoding.
-- Achieved **56% faster inference time** with zero degradation in output quality compared to baseline models.
+- **56% faster inference time** with zero degradation in output quality compared to baseline models.
 - Implementation and evaluation of optimized decoding workflows for efficient and scalable model inference.
 - Research collaboration with Samsung R&D engineers and academic mentors.
 
-## Technical Expertise
+<div align="center">
 
-| Category                  | Technologies                                        |
-| ------------------------- | --------------------------------------------------- |
-| **Programming Languages** | Python, Java, C, JavaScript                         |
-| **Data Science**          | NumPy, Pandas, Scikit-learn                         |
-| **Machine Learning**      | Classification, Regression, Clustering              |
-| **Deep Learning**         | PyTorch, TensorFlow, CNN, Transfer Learning         |
-| **NLP**                   | Hugging Face, Transformers, BERT                    |
-| **Generative AI**         | LLMs, LangChain, LangGraph, RAG                     |
-| **Data Visualization**    | Matplotlib, Seaborn, Tableau, Power BI              |
-| **Databases**             | MySQL, MongoDB                                      |
-| **Cloud & DevOps**        | Microsoft Azure, Ansible, CI/CD                     |
-| **Development Tools**     | Jupyter Notebook, Google Colab, Kaggle, Git, GitHub |
+<img src="https://img.shields.io/badge/Research-Generative%20AI-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-LLM%20Inference-0D9488?style=flat-square"/>
+<img src="https://img.shields.io/badge/Result-56%25%20Faster-16A34A?style=flat-square"/>
 
-## Projects
+</div>
 
-### Machine Learning & Data Science
+---
 
-| Project                                                                                                      | Description                                                    |
-| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
-| [Fake News Detection](https://github.com/Sachi0124/Fake-News-Detection-Model-using-Machine-Learning-and-NLP) | Machine learning and NLP-based fake news classification.       |
-| [Customer Churn Prediction](https://github.com/Sachi0124/customer-churn-prediction-machine-learning-project) | Customer churn prediction using machine learning techniques.   |
-| [Employee Attrition Prediction](https://github.com/Sachi0124/employee-attrition-prediction)                  | Employee attrition analysis and predictive modelling.          |
-| [Movie Recommender System](https://github.com/Sachi0124/movie-recommender-system)                            | Movie recommendation based on user preferences and similarity. |
+## 🛠️ Technical Skills
 
-### Deep Learning & Natural Language Processing
+### 💻 Programming Languages
 
-| Project                                                                                                                                  | Description                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [Emotion & Hate Speech Detection](https://github.com/Sachi0124/Emotion-Detection-and-Hatespeech-Detection-with-Huggingface-Transformers) | Emotion classification and hate speech detection using Hugging Face Transformers. |
-| [Sentiment Analysis](https://github.com/Sachi0124/Sentiment-Analysis)                                                                    | Text sentiment classification using NLP techniques.                               |
-| [Pneumonia Detection](https://github.com/Sachi0124/PneumoniaDetection-CNN)                                                               | Pneumonia classification from chest X-ray images using CNN and transfer learning. |
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### Generative AI & AI Agents
+### 📊 Data Science & Machine Learning
 
-| Project                                                         | Description                                           |
-| --------------------------------------------------------------- | ----------------------------------------------------- |
-| [LangChain Agent](https://github.com/Sachi0124/LangChain-Agent) | Implementation and exploration of LLM-powered agents. |
-| [LangGraph](https://github.com/Sachi0124/Langraph)              | Graph-based workflows for AI agent development.       |
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
-### Web Development
+### 🧠 Deep Learning & NLP
 
-| Project                                                                   | Description                                                                          |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [Weather Forecast App](https://github.com/Sachi0124/weather-forecast-app) | Responsive weather application integrating a real-time weather API.                  |
-| [MERN To-Do App](https://github.com/Sachi0124/mern-todo-app)              | Full-stack task management application using MongoDB, Express, React and Node.js.    |
-| [User Enquiry Form](https://github.com/Sachi0124/user-enquiry-form)       | Full-stack enquiry management application using React, Node.js, Express and MongoDB. |
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge"/>
+</p>
 
-## Research & Publications
+### ⚡ Generative AI & Agentic AI
 
-**Accelerating Inference in Lightweight Language Models using Speculative Decoding and Quantization**
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2B6CB0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge"/>
+</p>
+
+### 📈 Data Visualization & Databases
+
+<p>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### ☁️ Cloud, Development & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Machine Learning & Data Science
+
+| Project | Description | Technology |
+|:---|:---|:---|
+| [Fake News Detection](https://github.com/Sachi0124/Fake-News-Detection-Model-using-Machine-Learning-and-NLP) | Fake news classification using ML and NLP | Python |
+| [Customer Churn Prediction](https://github.com/Sachi0124/customer-churn-prediction-machine-learning-project) | Predictive modelling for customer churn | ML |
+| [Employee Attrition Prediction](https://github.com/Sachi0124/employee-attrition-prediction) | Employee attrition prediction | ML |
+| [Movie Recommender System](https://github.com/Sachi0124/movie-recommender-system) | Movie recommendation system | ML |
+
+### 🧠 Deep Learning & NLP
+
+| Project | Description | Technology |
+|:---|:---|:---|
+| [Emotion & Hate Speech Detection](https://github.com/Sachi0124/Emotion-Detection-and-Hatespeech-Detection-with-Huggingface-Transformers) | Emotion classification and hate speech detection | Transformers |
+| [Sentiment Analysis](https://github.com/Sachi0124/Sentiment-Analysis) | Text sentiment classification | NLP |
+| [Pneumonia Detection](https://github.com/Sachi0124/PneumoniaDetection-CNN) | Chest X-ray classification using CNN and transfer learning | Deep Learning |
+
+### ⚡ Generative AI & AI Agents
+
+| Project | Description | Technology |
+|:---|:---|:---|
+| [LangChain Agent](https://github.com/Sachi0124/LangChain-Agent) | LLM-powered agent implementation | LangChain |
+| [LangGraph](https://github.com/Sachi0124/Langraph) | Graph-based AI agent workflows | LangGraph |
+
+### 🌐 Web Development
+
+| Project | Description | Technology |
+|:---|:---|:---|
+| [Weather Forecast App](https://github.com/Sachi0124/weather-forecast-app) | Responsive weather application using a real-time API | HTML |
+| [MERN To-Do App](https://github.com/Sachi0124/mern-todo-app) | Full-stack task management application | MERN |
+| [User Enquiry Form](https://github.com/Sachi0124/user-enquiry-form) | Full-stack enquiry management application | MERN |
+
+---
+
+## 📚 Research & Publications
+
+### 📄 Accelerating Inference in Lightweight Language Models using Speculative Decoding and Quantization
 
 - **Author:** Sachith C, et al.
 - **Conference:** 2nd International Conference on Electronic Circuits and Signaling Technologies (ICECST 2025).
@@ -81,31 +158,78 @@ Information Science graduate with a Bachelor's degree in Information Science & E
 - **Presentation:** October 2025.
 - **Publication:** Accepted for publication under IEEE Power & Energy Society (PES).
 
-## Achievements
+---
 
-**Infosys-PALS TechZooka Hackathon 2025**
+## 🏆 Achievements & Recognition
 
-- Selected among the **Top 31 teams out of 88 teams** representing 51 institutions.
-- Project: SafeSphere — an AI-driven urban safety platform.
-- Recognition: Certificate of Appreciation from Infosys.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**IEEE ICECST 2025**
+### 🥇 Infosys-PALS TechZooka 2025
 
-- Research paper presentation on speculative decoding and quantization.
-- Certificate of Presentation under the IEEE Power & Energy Society track.
+- Selected among the **Top 31 teams out of 88 teams**.
+- Represented one of 51 participating institutions.
+- Project: SafeSphere – AI-driven urban safety platform.
+- Certificate of Appreciation from Infosys.
 
-## Areas of Interest
+</td>
+<td width="50%" valign="top">
 
-- Data Science and Statistical Analysis
-- Machine Learning and Predictive Modelling
-- Deep Learning and Neural Networks
-- Natural Language Processing
-- Generative AI and Large Language Models
-- Retrieval-Augmented Generation
-- AI Agents and LLM Inference Optimization
+### 🏅 IEEE ICECST 2025
 
-## Connect
+- Research paper presentation.
+- Speculative Decoding and Quantization.
+- Lincoln University College, Malaysia.
+- Certificate of Presentation under IEEE PES track.
 
-- **GitHub:** [Sachi0124](https://github.com/Sachi0124)
-- **LinkedIn:** [Sachith C](https://www.linkedin.com/in/sachith-c-b75b08293/)
-- **Location:** Bengaluru, Karnataka, India
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Areas of Interest
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Science-0A9396?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-264653?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-6A4C93?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-E76F51?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-4361EE?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-7209B7?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-2A9D8F?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-457B9D?style=flat-square"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sachi0124&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachi0124&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Sachi0124&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sachi0124-181717?style=for-the-badge&logo=github)](https://github.com/Sachi0124)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachith%20C-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachith-c-b75b08293/)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+
+</div>
