@@ -33,27 +33,32 @@ Information Science & Engineering graduate, currently pursuing M.Tech in Artific
 - **Cloud & DevOps:** Azure, Ansible, CI/CD
 - **Tools:** Jupyter Notebook, Google Colab, Kaggle, Git, GitHub
 
+
 ## 🚀 Projects
 
-**Machine Learning & Data Science**
-- [Fake News Detection](https://github.com/Sachi0124/Fake-News-Detection-Model-using-Machine-Learning-and-NLP)
-- [Customer Churn Prediction](https://github.com/Sachi0124/customer-churn-prediction-machine-learning-project)
-- [Employee Attrition Prediction](https://github.com/Sachi0124/employee-attrition-prediction)
-- [Movie Recommender System](https://github.com/Sachi0124/movie-recommender-system)
+### 📊 Machine Learning & Data Science
 
-**Deep Learning & NLP**
-- [Emotion & Hate Speech Detection](https://github.com/Sachi0124/Emotion-Detection-and-Hatespeech-Detection-with-Huggingface-Transformers)
-- [Sentiment Analysis](https://github.com/Sachi0124/Sentiment-Analysis)
-- [Pneumonia Detection using CNN](https://github.com/Sachi0124/PneumoniaDetection-CNN)
+- [**Fake News Detection**](https://github.com/Sachi0124/Fake-News-Detection-Model-using-Machine-Learning-and-NLP) — A machine learning and NLP-based system that classifies news articles as real or fake.
+- [**Customer Churn Prediction**](https://github.com/Sachi0124/customer-churn-prediction-machine-learning-project) — A predictive machine learning model that identifies customers who are likely to leave a service.
+- [**Employee Attrition Prediction**](https://github.com/Sachi0124/employee-attrition-prediction) — A machine learning project that analyzes employee data to predict workforce attrition.
+- [**Movie Recommender System**](https://github.com/Sachi0124/movie-recommender-system) — A recommendation system that suggests movies based on user preferences and similarity.
 
-**Generative AI**
-- [LangChain Agent](https://github.com/Sachi0124/LangChain-Agent)
-- [LangGraph](https://github.com/Sachi0124/Langraph)
+### 🧠 Deep Learning & NLP
 
-**Web Development**
-- [Weather Forecast App](https://github.com/Sachi0124/weather-forecast-app)
-- [MERN To-Do App](https://github.com/Sachi0124/mern-todo-app)
-- [User Enquiry Form](https://github.com/Sachi0124/user-enquiry-form)
+- [**Emotion & Hate Speech Detection**](https://github.com/Sachi0124/Emotion-Detection-and-Hatespeech-Detection-with-Huggingface-Transformers) — A transformer-based NLP system for detecting emotions and identifying hate speech in text using Hugging Face.
+- [**Sentiment Analysis**](https://github.com/Sachi0124/Sentiment-Analysis) — An NLP-based text classification project that identifies sentiment expressed in text.
+- [**Pneumonia Detection using CNN**](https://github.com/Sachi0124/PneumoniaDetection-CNN) — A deep learning model that classifies chest X-ray images for pneumonia detection using CNN and transfer learning.
+
+### ⚡ Generative AI & AI Agents
+
+- [**LangChain Agent**](https://github.com/Sachi0124/LangChain-Agent) — An LLM-powered agent implementation exploring tool integration and automated task execution.
+- [**LangGraph**](https://github.com/Sachi0124/Langraph) — An exploration of graph-based workflows for building and orchestrating AI agents.
+
+### 🌐 Web Development
+
+- [**Weather Forecast App**](https://github.com/Sachi0124/weather-forecast-app) — A responsive frontend application that retrieves and displays real-time weather information using an external API.
+- [**MERN To-Do App**](https://github.com/Sachi0124/mern-todo-app) — A full-stack task management application built with MongoDB, Express, React, and Node.js, supporting task creation and deletion.
+- [**User Enquiry Form**](https://github.com/Sachi0124/user-enquiry-form) — A full-stack enquiry management application that collects user submissions and stores them in MongoDB using React and Node.js.
 
 ## 📄 Research & Publications
 
